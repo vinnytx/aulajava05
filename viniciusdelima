@@ -1,0 +1,33 @@
+public class operadores {
+ public float adicao (float v1, float v2){
+ return v1+v2;
+}
+
+public float subtracao (float v1, float v2){
+ return v1-v2;
+}
+ public float mutplicacao (float v1, float v2){
+ return v1*v2;
+}
+public float divisao (float v1 ,float v2){
+    return v1/v2;
+}
+
+}
+
+public class calculadora {
+public it statit wotd matn XString [1 args)
+Operadores op = new operadores();
+
+AMEXEMPLO DE ADICAO 
+System.out.printin(*O Resultado é: " op adicao(10,5));
+
+        AVEXEMPLO DE SUBTRAÇÃO
+System.out.printin(*O Resultado é: "+ op.subtracao(10,5));
+
+        A/EXEMPLO DE MULTIPLICAÇÃO
+System.out.printin("O Resultado é: "* ap-multiplicacao(10,5));
+
+P/EXEMPLO DE DIVISAO
+system.out.printin("O Resultado é: "4 op divisao(10,5))
+}
